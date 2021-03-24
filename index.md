@@ -82,7 +82,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Alan Ball
 1. Alan Diggs (Schykle)
 1. Alan Pope
-1. Alberto Ruiz (GNOME, Fedora & LibreOffice contributor)
 1. Alexander Herzig (Release Manager SUSE Linux Enterprise)
 1. Alexander Jacocks (Red Hat)
 1. Alexander Koderman
@@ -561,6 +560,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Ignacio Torres Masdeu
 1. Ilya Kreymer
 1. intrigeri (Debian Developer, Tails Developer)
+1. Ioannis Cherouvim
 1. Irina Rempt
 1. Isaac Ferreira Filho (aka "yzakius", GNOME contributor)
 1. Isabela Bagueros
@@ -915,7 +915,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Michael Reiger
 1. Michael Schechter
 1. Michael Scherer
-1. Michael T. Lombardi (@michaeltlombardi, Puppet developer)
 1. Michal Siedlaczek
 1. Mika Pflüger
 1. Mike Doughney (co-founder, Digital Express Group / DIGEX Incorporated)
@@ -1215,7 +1214,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Stephan Lachnit (Debian Maintainer)
 1. Stephen A. Goss
 1. Stephen O'Grady
-1. Steve Desmond
 1. Steve Langasek (former Debian Technical Committee member; Ubuntu Technical Board member)
 1. Steve McIntyre (Former Debian Project Leader)
 1. Steven Beattie
@@ -1299,7 +1297,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Vitor "Krammer" Cardoso
 1. Vivia Nikolaidou (GStreamer)
 1. Vojtěch Vengrin (Gnome translator)
-1. Ward Vandewege (Former FSF staff and FSF member)
 1. Wayne M. Thornton, B.S., CPDT (Co-Founder & Project Manager VIRATRACE)
 1. Wendy Bolm (Chief Operations Officer, CommitChange)
 1. Wendy Seltzer
